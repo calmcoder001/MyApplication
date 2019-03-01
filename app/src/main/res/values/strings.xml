@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_text">FirstName</string>
+    <string name="last_text">LastName</string>
+    <string name="save_txt">Save</string>
+    <string name="cancel_txt">Cancel</string>
+</resources>
